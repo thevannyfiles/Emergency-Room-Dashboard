@@ -1,4 +1,4 @@
-# Emergency RoomD ashboard
+# Emergency Room Dashboard
 
 This dashboard provides a comprehensive analysis of emergency room (ER) visits, utilizing data extracted from the "Hospital ER.csv" dataset. The dashboard is designed to offer insights into patient demographics, ER wait times, patient satisfaction, and department referrals, allowing hospital administrators and healthcare professionals to monitor and improve ER operations.
 
